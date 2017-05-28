@@ -5,9 +5,9 @@ assignment: Getting and Cleaning Data Course Project.
 
 Following are the list of files in the repository: 
 
->> CodeBook.md : describes the variables, the data, and any transformations or work that was performed to clean up the data.
+#CodeBook.md : describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
->> run_analysis.R: R code created to do the following tasks in the order
+#run_analysis.R: R code created to do the following tasks in the order
    1. download the zip file with data collected from the accelerometers from the Samsung Galaxy S smartphone and unzip the file.
    2. Read the features data for test - X_test.txt, for training - X_train.txt
    3. Read the feature names features.txt to be used to update the column names for features
@@ -20,4 +20,4 @@ Following are the list of files in the repository:
    10. creates a second, independent tidy data set with the average of each variable for each activity and each subject and call the file tidydata.txt
 
 
->> tidydata.txt: tab delimited text file with headers, holding average of each variable for each activity and each subject
+#tidydata.txt: tab delimited text file with headers, holding average of each variable for each activity and each subject
